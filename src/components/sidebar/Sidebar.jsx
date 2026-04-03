@@ -4,7 +4,7 @@ import {
   Wallet, BarChart3, Settings, Users, LogOut,
   ChevronRight, Boxes
 } from 'lucide-react'
-import { useAuth } from '../hooks/useAuth'
+import useAuth from "../../hooks/useAuth"
 
 const navItems = [
   {
